@@ -8,3 +8,6 @@ Creació del diari d'aprenentatge.
 
 ### Dia 2
 [Mapa mental: Conceptes del PMBOK.](mindmap)
+
+### Dia 3
+[Infografia: acta de constitució d'un projecte](acta-constitució/acta.md)
