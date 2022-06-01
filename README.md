@@ -17,6 +17,13 @@ En aquesta tasca he realitzat una presentació per transmetre què és l'EDT i c
 
 El document EDT (Estructura de Desglossament del Treball) serveix per registrar i visualitzar tota la feina a realitzar en el projecte.
 
-La presentació utilitza una plantilla de Slides Carnival: https://www.slidescarnival.com
+La presentació utilitza una plantilla de Slides Carnival: [https://www.slidescarnival.com](https://www.slidescarnival.com)
 
 [Procés de planificació (EDT)](edt/edt-proces-planificacio.pdf)
+
+### Dia 5
+En aquesta tasca he realitzat una presentació per a portar a terme una activitat mitjançant la metodologia d'aula invertida. L'alumnat haurà primer de llegir la informació que se li presenta abans d'arribar a la classe on s'impartirà l'activitat prevista, posiblement realitzar un plà de gestió de riscos sobre el seu projecte.
+
+La presentació utilitza una plantilla de Slides Carnival: [https://www.slidescarnival.com](https://www.slidescarnival.com)
+
+[Gestió de riscos](gestio-riscos/gestio-riscos.pdf)
