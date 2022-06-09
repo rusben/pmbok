@@ -27,3 +27,10 @@ En aquesta tasca he realitzat una presentació per a portar a terme una activita
 La presentació utilitza una plantilla de Slides Carnival: [https://www.slidescarnival.com](https://www.slidescarnival.com)
 
 [Gestió de riscos](gestio-riscos/gestio-riscos.pdf)
+
+### Dia 6
+En aquesta tasca es presenta als alumnes una síntesi del concepte de costos i la seva relació amb el pressupost del seu projecte, amb un audio que es podrà escoltar tantes vegades com es vulgui i cadascú podrà aprendre al seu ritme.
+
+[Document annex de la gestió de costos](https://todopmp.com/cards/procesos.html)
+
+[Gestió de costos](gestio-costos/costos.mp3)
