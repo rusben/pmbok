@@ -34,3 +34,12 @@ En aquesta tasca es presenta als alumnes una síntesi del concepte de costos i l
 [Document annex de la gestió de costos](https://todopmp.com/cards/procesos.html)
 
 [Gestió de costos](gestio-costos/costos.mp3)
+
+### Dia 7
+En aquesta tasca es realitza un esborrany d'una idea de projecte i es genera la documentació necessària.
+
+Els alumnes treballaran en una pàgina web que desenvoluparan durant les hores lectives del curs de dedicades al projecte de síntesi.
+
+[Acta de constitució](projecte/acta.pdf)
+
+[EDT](projecte/edt.pdf)
